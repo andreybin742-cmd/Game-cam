@@ -1,6 +1,1 @@
-# Esto ignora archivos que no deben subirse
-.venv/
-__pycache__/
-.env
-desktop.ini
-.DS_Store
+
